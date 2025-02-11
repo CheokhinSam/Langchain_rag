@@ -1,3 +1,6 @@
 langchain-text-splitters
 langchain-community
 langgraph
+langchain-openai
+dotenv
+pip install -qU langchain-chroma
